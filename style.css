@@ -1,0 +1,14 @@
+td{
+  height: 90px;
+  width: 90px;
+  text-align: center;
+}
+#ar{
+       width:55%;
+       height:250px;
+       margin:auto;
+}
+#btn2{
+       position: absolute;
+       margin-left: 40%;
+}
